@@ -9,5 +9,6 @@
 	<ul>
 		<li><a href="/day1">See day 1</a></li>
 		<li><a href="/day2">See day 2</a></li>
+		<li><a href="/day3">See day 3</a></li>
 	</ul>
 </div>

@@ -130,6 +130,11 @@
 </div>
 
 <style>
+	.column {
+		margin-top: 20px;
+		border-radius: 8px;
+		border: 3px solid green;
+	}
 	.lil-cookie {
 		height: 15px;
 	}
@@ -146,5 +151,6 @@
 		position: absolute;
 		transition: top 0.2s ease-out;
 		z-index: 10;
+		cursor: pointer;
 	}
 </style>
